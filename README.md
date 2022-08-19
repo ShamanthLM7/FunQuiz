@@ -4,11 +4,11 @@ A Quiz With Sqlite
  So this app is built by using a Sqlite in Android Studio 
  
 done by
-prajwal bhat
-prem cl
-shamanth naik
+Prajwal Bhat
+Prem CL
+Shamanth Naik
 
-of NMAMIT Nitte
+of NMAM Institute of Technology
 
 
 
